@@ -13,3 +13,10 @@
 ## Correr proyecto
 
 - php artisan serve
+
+## Endpoints
+
+- http://localhost:8000/students
+- http://localhost:8000/students/{id}
+- http://localhost:8000/teachers
+- http://localhost:8000/teachers/{id}
