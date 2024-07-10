@@ -16,7 +16,7 @@
 
 ## Endpoints
 
-- http://localhost:8000/students
-- http://localhost:8000/students/{id}
-- http://localhost:8000/teachers
-- http://localhost:8000/teachers/{id}
+- http://localhost:8000/api/students
+- http://localhost:8000/api/students/{id}
+- http://localhost:8000/api/teachers
+- http://localhost:8000/api/teachers/{id}
